@@ -18,7 +18,7 @@ body {
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-image: url(' https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.aljazeera.com%2Fwp-content%2Fuploads%2F2021%2F02%2Froses.jpg%3Fresize%3D1920%252C1440&tbnid=wpRdH519FTwWyM&vet=12ahUKEwiq5fmdtIb-AhUwF1kFHeDOBQ4QMygkegUIARDAAg..i&imgrefurl=https%3A%2F%2Fwww.aljazeera.com%2Feconomy%2F2021%2F2%2F12%2Froses-are-red-and-causing-climate-change-french-florists-warn&docid=CbanxKS_WEdTiM&w=1920&h=1440&q=roses&safe=active&ved=2ahUKEwiq5fmdtIb-AhUwF1kFHeDOBQ4QMygkegUIARDAAg ');
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -77,27 +77,27 @@ footer {
 <body>
 
 <header>
-  <h2>NAME OF YOUR WEBSITE GOES HERE</h2>
+  <h2>All ABOUT ME!</h2>
 </header>
 
 <section>
   <nav>
     <ul>
-      <li><a href="#">LINK 1</a></li>
-      <li><a href="#">LINK 2</a></li>
-      <li><a href="#">LINK 3</a></li>
+      <li><a href="#">https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gardendesign.com%2Fpictures%2Fimages%2F675x529Max%2Fsite_3%2Fhelianthus-yellow-flower-pixabay_11863.jpg&tbnid=6nrGjJksLfWZLM&vet=12ahUKEwjbmczts4b-AhUBF2IAHQ5VBXcQMygJegUIARD4AQ..i&imgrefurl=https%3A%2F%2Fwww.gardendesign.com%2Fflowers%2Feasy.html&docid=KHb_DrQoiHHqIM&w=675&h=450&q=flowers&safe=active&ved=2ahUKEwjbmczts4b-AhUBF2IAHQ5VBXcQMygJegUIARD4AQ</a></li>
+      <li><a href="#">https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thespruce.com%2Fthe-most-beautiful-garden-flowers-4690011&psig=AOvVaw0r9y3rFegc9cvwVsAw4GCO&ust=1680360245718000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiyooy0hv4CFQAAAAAdAAAAABAD</a></li>
+      <li><a href="#">https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.aljazeera.com%2Fwp-content%2Fuploads%2F2021%2F02%2Froses.jpg%3Fresize%3D1920%252C1440&tbnid=wpRdH519FTwWyM&vet=12ahUKEwiq5fmdtIb-AhUwF1kFHeDOBQ4QMygkegUIARDAAg..i&imgrefurl=https%3A%2F%2Fwww.aljazeera.com%2Feconomy%2F2021%2F2%2F12%2Froses-are-red-and-causing-climate-change-french-florists-warn&docid=CbanxKS_WEdTiM&w=1920&h=1440&q=roses&safe=active&ved=2ahUKEwiq5fmdtIb-AhUwF1kFHeDOBQ4QMygkegUIARDAAg</a></li>
     </ul>
   </nav>
   
   <article>
-    <h1>hi</h1>
-    <p>Add information about yourself here.</p>
-    <p>Make sure to talk about your hobbies and interests and add pictures.</p>
+    <h1>Some sfuff about me is down here.</h1>
+    <p> I really enjoy spending my time editing and make new things at home.</p>
+    <p>I also like too play video games and talk to my friends.On the side ima put links of my favorite flowers.</p>
   </article>
 </section>
 
 <footer>
-  <p>ADD YOUR FIRST NAME, LAST NAME, AND EMAIL HERE!</p>
+  <p>Jhosmery Pinta @jpintasamueza@mlvrcs.org</p>
 </footer>
 
 </body>
